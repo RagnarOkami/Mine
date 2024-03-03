@@ -1,0 +1,5 @@
+uuid: ebb04dcb-7fc6-3128-9048-73e32075a045
+name: Botsito
+primary-group: user
+parents:
+- user

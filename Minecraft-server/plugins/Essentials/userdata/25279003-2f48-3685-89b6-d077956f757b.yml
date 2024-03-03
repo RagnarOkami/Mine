@@ -1,0 +1,62 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1709421579368
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1709421560845
+  login: 1709416798896
+  kits:
+    color: 1709165539121
+    notch: 1709159829475
+    dtools: 1709164368906
+    tools: 1709164442848
+    firework: 1709167010222
+money: '0'
+last-account-name: RagnarOkami
+lastlocation:
+  world: 6925d98d-9bec-4570-879e-2f8524f701a4
+  world-name: world
+  x: -15308.64189351907
+  y: 170.14111377286034
+  z: 1136.5097644617115
+  yaw: 131.2152099609375
+  pitch: 51.29994583129883
+logoutlocation:
+  world: 6925d98d-9bec-4570-879e-2f8524f701a4
+  world-name: world
+  x: -15363.030592542671
+  y: 138.0
+  z: 812.7886114586198
+  yaw: -6.7489013671875
+  pitch: 24.299896240234375
+homes:
+  xd:
+    world: 6925d98d-9bec-4570-879e-2f8524f701a4
+    world-name: world
+    x: -15109.575895399084
+    y: 2.0
+    z: 905.6534287143066
+    yaw: -3.028564453125
+    pitch: 36.60014343261719
+  casa:
+    world: 6925d98d-9bec-4570-879e-2f8524f701a4
+    world-name: world
+    x: -15415.981350894739
+    y: 135.0
+    z: 852.2127320453305
+    yaw: -130.09326171875
+    pitch: 39.300052642822266
+confirm-pay: true

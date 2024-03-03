@@ -1,0 +1,26 @@
+name: user
+permissions:
+- epicrename:
+    value: false
+- essentials.delhome
+- essentials.home
+- essentials.info
+- essentials.invsee:
+    value: false
+- essentials.msg
+- essentials.sethome
+- essentials.sethome.multiple
+- essentials.tpa
+- essentials.tpaall
+- essentials.tpacancel
+- essentials.tpaccept
+- itemedit:
+    value: false
+- minecraft.command
+- minecraft.msg
+- plugman:
+    value: false
+- skinsrestorer
+prefixes:
+- '&a&l[User]&6 ':
+    priority: 1

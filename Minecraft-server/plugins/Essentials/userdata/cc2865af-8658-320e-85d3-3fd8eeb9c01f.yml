@@ -1,0 +1,87 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1709420572842
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1709421380372
+  login: 1709419963198
+money: '0'
+last-account-name: ElNashes023223
+lastlocation:
+  world: 6925d98d-9bec-4570-879e-2f8524f701a4
+  world-name: world
+  x: -15427.695257759491
+  y: 118.0
+  z: 689.3935732495243
+  yaw: 20.16546630859375
+  pitch: -9.511311531066895
+logoutlocation:
+  world: 6925d98d-9bec-4570-879e-2f8524f701a4
+  world-name: world
+  x: -15407.634241932463
+  y: 135.0
+  z: 851.2855088672864
+  yaw: 159.76956176757812
+  pitch: 37.88298416137695
+homes:
+  aldea:
+    world: 6925d98d-9bec-4570-879e-2f8524f701a4
+    world-name: world
+    x: -15410.928884586003
+    y: 133.0
+    z: 848.6401031025138
+    yaw: 61.654754638671875
+    pitch: 18.899803161621094
+  spawnere:
+    world: 6925d98d-9bec-4570-879e-2f8524f701a4
+    world-name: world
+    x: -15385.642602511949
+    y: -35.0
+    z: 651.5545757717957
+    yaw: 141.93960571289062
+    pitch: 30.14927864074707
+  spawnere2:
+    world: 6925d98d-9bec-4570-879e-2f8524f701a4
+    world-name: world
+    x: -15431.09369151331
+    y: 32.0
+    z: 802.4994788769238
+    yaw: -7.375732421875
+    pitch: 37.97949981689453
+  a:
+    world: 6925d98d-9bec-4570-879e-2f8524f701a4
+    world-name: world
+    x: -14687.01982447302
+    y: 63.0
+    z: 1080.440612280052
+    yaw: 104.33251953125
+    pitch: 47.21157455444336
+  stronghold:
+    world: 6925d98d-9bec-4570-879e-2f8524f701a4
+    world-name: world
+    x: 161.44001918707434
+    y: 18.0
+    z: -1709.1203060023827
+    yaw: 92.34396362304688
+    pitch: 12.599535942077637
+  spawner_ara_as:
+    world: 6925d98d-9bec-4570-879e-2f8524f701a4
+    world-name: world
+    x: -231.87903451484965
+    y: -22.0
+    z: 119.3691286014609
+    yaw: 117.0577392578125
+    pitch: 20.39987564086914

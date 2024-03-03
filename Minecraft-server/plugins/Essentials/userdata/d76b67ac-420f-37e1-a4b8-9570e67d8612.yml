@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1709420668742
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1709350290845
+  login: 1709417916398
+money: '0'
+last-account-name: FujoMas32
+lastlocation:
+  world: 6925d98d-9bec-4570-879e-2f8524f701a4
+  world-name: world
+  x: -118.5
+  y: 67.0
+  z: -23.5
+  yaw: 3.000000476837158
+  pitch: -0.30000004172325134
+homes:
+  casa:
+    world: 6925d98d-9bec-4570-879e-2f8524f701a4
+    world-name: world
+    x: -15109.84518169428
+    y: 117.0
+    z: 1005.9343981020243
+    yaw: -162.6438446044922
+    pitch: 18.450122833251953
+logoutlocation:
+  world: 6925d98d-9bec-4570-879e-2f8524f701a4
+  world-name: world
+  x: -15120.191680129396
+  y: 107.0
+  z: 972.3852125458817
+  yaw: -36.792236328125
+  pitch: 20.700054168701172

@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1709419573795
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1709351336143
+  login: 1709416985246
+money: '0'
+last-account-name: sandia29
+logoutlocation:
+  world: 6925d98d-9bec-4570-879e-2f8524f701a4
+  world-name: world
+  x: -14862.336153015329
+  y: 93.0
+  z: 1034.6613189871246
+  yaw: 118.397216796875
+  pitch: 28.654367446899414
+homes:
+  aldea:
+    world: 6925d98d-9bec-4570-879e-2f8524f701a4
+    world-name: world
+    x: -15424.146446823524
+    y: 132.0
+    z: 845.0350291849746
+    yaw: -85.97354125976562
+    pitch: 8.347538948059082
+  home:
+    world: b661c7a1-fecb-4017-9018-0e557965c7ca
+    world-name: world_nether
+    x: -1899.5413842543103
+    y: 80.0
+    z: 104.5459938894086
+    yaw: -90.866943359375
+    pitch: 2.111464262008667
+lastlocation:
+  world: b661c7a1-fecb-4017-9018-0e557965c7ca
+  world-name: world_nether
+  x: -1899.5
+  y: 80.0
+  z: 104.5
+  yaw: -117.13142395019531
+  pitch: 12.227468490600586

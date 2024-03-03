@@ -1,0 +1,16 @@
+name: owner
+permissions:
+- bukkit
+- bukkit.command
+- craftbukkit
+- essentials
+- essentials.sethome.multiple
+- luckperms
+- minecraft
+- operators
+- plugman
+- skinsrestorer
+- vault
+prefixes:
+- '♚&5&l[Owner]&4 ':
+    priority: 1

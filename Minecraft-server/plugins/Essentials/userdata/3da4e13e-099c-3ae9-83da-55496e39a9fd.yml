@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1709421639420
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 0
+  login: 1709416858096
+money: '0'
+last-account-name: DeWitt11146
+lastlocation:
+  world: 6925d98d-9bec-4570-879e-2f8524f701a4
+  world-name: world
+  x: -15223.70638275616
+  y: 36.24918707874468
+  z: 1163.6127999946968
+  yaw: 113.4984130859375
+  pitch: 60.74978256225586

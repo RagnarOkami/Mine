@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1709420170674
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1709336397264
+  login: 1709419562047
+money: '0'
+last-account-name: cabezinu
+logoutlocation:
+  world: 6925d98d-9bec-4570-879e-2f8524f701a4
+  world-name: world
+  x: -15403.50869423223
+  y: 133.0
+  z: 859.919824908424
+  yaw: 85.5220947265625
+  pitch: 38.42036437988281
+lastlocation:
+  world: 6925d98d-9bec-4570-879e-2f8524f701a4
+  world-name: world
+  x: -16130.197334713035
+  y: 88.0
+  z: 1135.9832494794575
+  yaw: 111.134765625
+  pitch: 10.150420188903809
+homes:
+  home:
+    world: 6925d98d-9bec-4570-879e-2f8524f701a4
+    world-name: world
+    x: -15.300000011920929
+    y: 64.0
+    z: 241.60246010974464
+    yaw: -115.94140625
+    pitch: 87.89461517333984

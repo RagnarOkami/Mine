@@ -1,0 +1,13 @@
+palito:
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: STICK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":true,"strikethrough":false,"obfuscated":false,"color":"dark_aqua","text":"[Bye
+        bye :D]"}],"text":""}'
+      custom-model-data: 1
+      enchants:
+        KNOCKBACK: 50

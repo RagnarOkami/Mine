@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1709402449525
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1709402579564
+  login: 1709402408055
+money: '0'
+last-account-name: MaxitoUY
+lastlocation:
+  world: 15b5e600-e7c4-4077-b25f-ad651c98ca09
+  world-name: world_the_end
+  x: -1781.3292600755037
+  y: 56.0
+  z: 117.96480941147517
+  yaw: -50.960113525390625
+  pitch: 17.400712966918945
+logoutlocation:
+  world: 6925d98d-9bec-4570-879e-2f8524f701a4
+  world-name: world
+  x: 1457.1042683768574
+  y: 65.0
+  z: 1722.8226658879769
+  yaw: -32.239990234375
+  pitch: 11.05230712890625
+homes:
+  home:
+    world: 6925d98d-9bec-4570-879e-2f8524f701a4
+    world-name: world
+    x: 1466.6137559057715
+    y: 13.0
+    z: 1011.767472344567
+    yaw: -178.9378662109375
+    pitch: 33.60960388183594
+  end:
+    world: 15b5e600-e7c4-4077-b25f-ad651c98ca09
+    world-name: world_the_end
+    x: -1753.0820606103669
+    y: 57.0
+    z: 134.39680966371043
+    yaw: 92.5289306640625
+    pitch: 18.762781143188477
+  aldea:
+    world: 6925d98d-9bec-4570-879e-2f8524f701a4
+    world-name: world
+    x: 1459.4403635664291
+    y: 64.0
+    z: 1717.4872783430585
+    yaw: 13.256744384765625
+    pitch: 24.58974266052246

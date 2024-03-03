@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1709246880173
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1709252714100
+  login: 1709252708348
+money: '0'
+last-account-name: CrossOver
+lastlocation:
+  world: 6925d98d-9bec-4570-879e-2f8524f701a4
+  world-name: world
+  x: -281.24481896821356
+  y: 73.0
+  z: 39.12773541810126
+  yaw: -145.63604736328125
+  pitch: 20.041658401489258
+logoutlocation:
+  world: 6925d98d-9bec-4570-879e-2f8524f701a4
+  world-name: world
+  x: -280.2538137543374
+  y: -49.0
+  z: 41.43926188983282
+  yaw: 43.033870697021484
+  pitch: 5.654080867767334

@@ -1,0 +1,12 @@
+# LuckPerms UUID lookup cache
+6cb10877-6585-39ec-b5e2-30b827b21eb7:lucas8615
+a23449bf-4f6d-3f3e-8d40-72b2e88b1241:cabezinu
+7ef1d1c8-c0cb-3ff8-8948-bc556d5cf0b9:juanG2732
+b7df5009-8aad-3f8b-a3c5-1ccf13e619f8:sandia29
+d5a470ca-33ac-30d5-945a-86dbaed884bb:KILLCOOLALEX
+3847277e-bcb7-35b5-8272-ab4e41897596:CrossOver
+25279003-2f48-3685-89b6-d077956f757b:RagnarOkami
+cc2865af-8658-320e-85d3-3fd8eeb9c01f:ElNashes023223
+6156d414-0efa-34ba-b714-8aa1e2b332e9:MaxitoUY
+ebb04dcb-7fc6-3128-9048-73e32075a045:Botsito
+d76b67ac-420f-37e1-a4b8-9570e67d8612:FujoMas32

@@ -1,0 +1,29 @@
+name: serpant
+permissions:
+- epicrename:
+    value: false
+- essentials.home
+- essentials.msg
+- essentials.sethome
+- essentials.sethome.multiple
+- essentials.tpa
+- essentials.tpaall
+- essentials.tpacancel
+- essentials.tpaccept
+- itemedit:
+    value: false
+- luckperms:
+    value: false
+- minecraft:
+    value: false
+- minecraft.msg
+- operators:
+    value: false
+- plugman:
+    value: false
+- skinsrestorer
+- vault:
+    value: false
+prefixes:
+- '&3&l[Serpant]&7 ':
+    priority: 1
